@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<package format="3">
+  <name>swarm_localization</name>
+  <version>0.0.1</version>
+  <description>Swarm robot localization</description>
+  <maintainer email="mkmti@todo.todo">mkmti</maintainer>
+  <license>MIT</license>
+  <depend>robot_localization</depend>
+  <export>
+    <build_type>ament_cmake</build_type>
+  </export>
+</package>

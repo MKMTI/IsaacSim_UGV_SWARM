@@ -1,0 +1,9 @@
+build/
+install/
+log/
+
+*.gv
+*.pdf
+__pycache__/
+*.pyc
+
